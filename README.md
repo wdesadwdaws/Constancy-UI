@@ -11,6 +11,8 @@ Built for performance ⚡ Designed for simplicity 💡<br>
 [🚀 Jump To Why Constancy?](#-🌟 Why Constancy?)
 ---
 
+---
+
 ## 🌟 Why Constancy?
 
 Constancy-UI is a lightweight, developer-friendly UI framework  
