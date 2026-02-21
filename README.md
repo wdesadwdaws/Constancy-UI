@@ -7,9 +7,10 @@ Built for performance ⚡ Designed for simplicity 💡<br>
 </p>
 
 ---
-< Guide >
-[🚀 Jump To Why Constancy?](#-🌟 Why Constancy?)
----
+
+## 📚 Guide
+
+[🚀 Jump to Why Constancy](#-why-constancy)
 
 ---
 
@@ -36,7 +37,3 @@ focused on clean design, smooth animations, and easy implementation.
 - ⚙ Callback Support  
 - ✏ Dynamic Text Updating  
 - 🪶 Lightweight & Optimized  
-
----
-  
-  
