@@ -7,6 +7,9 @@ Built for performance ⚡ Designed for simplicity 💡<br>
 </p>
 
 ---
+< Guide >
+[🚀 Jump To Why Constancy?](#-🌟 Why Constancy?)
+---
 
 ## 🌟 Why Constancy?
 
