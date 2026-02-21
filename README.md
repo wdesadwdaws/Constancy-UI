@@ -20,7 +20,6 @@ focused on clean design, smooth animations, and easy implementation.
 - 🏷 Smart Title Rendering  
 - 📂 Dynamic Tab Architecture  
 - 🎨 Smooth Tween Animations  
-- 📐 Automatic Viewport Centering  
 - 🧠 Clean & Beginner-Friendly Codebase  
 
 ---
