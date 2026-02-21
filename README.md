@@ -1,1 +1,2 @@
-# 🚀 Constancy-UI
+# 🚀 Constancy-UI 🚀
+## New Scirpters friendly
