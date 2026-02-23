@@ -1,38 +1,13 @@
-- Note that most features and in beta
 local ConstancyUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/wdesadwdaws/Constancy-UI/refs/heads/main/src/lua"))()
 
-local Constancy = ConstancyUI:Init({
-  name = "" -- the ui name
-})
 
-local tab = Constancy:CreateTab({
-  name = "home", -- the tab name
-  icon = "" -- the icon make sure its an assetID
-})
+local tab = ConstancyUI:CreateTab()
 
-local button = tab:Button({
-  text = "btn", -- the button text
-  callback = function() -- what happends when u click the button
-      print("1") -- what comes out
-  end -- after everything ends
-})
-other button stuff
-- Note the button:... replace button with the local button_name
-button:SetText("WHAT EVER U WANT")
-btn:callback(
-	function()
-		print("Hello world!")
-	end
-)
+local button = tab:Button()
 
-local label = tab:Label({
-  message = "1" -- the label message
-})
 
-local info = tab:Info({
-  message = "1" -- the info message
-})
+local label = tab:Label()
 
-local warning = tab:Warning({
-  message = "1" -- the warning message
-})
+local info = tab:Info()
+
+local warning = tab:Warning()
