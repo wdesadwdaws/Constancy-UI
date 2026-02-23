@@ -1,7 +1,8 @@
-local ConstancyUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/wdesadwdaws/Constancy-UI/refs/heads/main/src/lua"))()
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/wdesadwdaws/Constancy-UI/refs/heads/main/src/lua"))()
 
+local Constancy = ConstancyUI:Init()
 
-local tab = ConstancyUI:CreateTab()
+local tab = Constancy:CreateTab()
 
 local button = tab:Button()
 
