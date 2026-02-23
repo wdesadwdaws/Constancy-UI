@@ -749,24 +749,7 @@ function Constancy:Init(options)
 			Label:_update()
 			
 			return Label
-		end
-			
-		function Tab:Slider(options)
-			options = Constancy:validate({
-				text = "Constancy Slider"
-			}, options or {})
-			
-			local Slider = {}
-			
-			-- Render
-			do
-				
-			end
-			
-			return Slider
-		end
-			
-		
+		end		
 		return Tab
 	end
 	
